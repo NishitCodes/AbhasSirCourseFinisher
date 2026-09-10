@@ -1,0 +1,16 @@
+QNum: 5
+Question: Anam and Bikash invest in a business in the ratio 3:2. If in a particular month, Anam gets ₹3,840 as profit, the total profit is?
+Options: (a) ₹ 5,800 (b) ₹6,300 (c) ₹6,550 (d) ₹6,400
+---
+QNum: 6
+Question: A, B and C started a business by investing ₹9,000, ₹18,000 and ₹21,000, respectively. If B's share in the profit earned by them is ₹759, then the total profit earned by them together is?
+Options: (a) ₹2,808 (b) ₹2,024 (c) ₹2,504 (d) ₹2,208
+---
+QNum: 7
+Question: X, Y and Z invested Rs.4,000, Rs.6,000 and Rs.8,000 respectively in a business. They invested the money for 3, 2 and 4 years respectively. If the total profit is Rs.56,000, then what is the share of Y in the profit?
+Options: (a) Rs.18,000 (b) Rs.12,000 (c) Rs.15,000 (d) Rs.9,000
+---
+QNum: 8
+Question: Three persons A, B and C invested some money in a business. The share of A is twice the share of B, and the share of B is thrice the share of C. After 1 year, they earned ₹6,000. Find the money A received.
+Options: (a) ₹3,200 (b) ₹3,000 (c) ₹3,600 (d) ₹3,500
+---
