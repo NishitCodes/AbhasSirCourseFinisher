@@ -1,6 +1,0 @@
-{
-    "5": {"Answer": "(d) ?6,400", "Basic Solution": "Anam : Bikash = 3:2. Total profit = 5x. Anam = 3x = 3840 => x = 1280. Total profit = 5x = 6400."},
-    "6": {"Answer": "(b) ?2,024", "Basic Solution": "Investment ratio = 9:18:21 = 3:6:7. B's share = 6 units = 759. Total profit = 16 units = 16 * (759/6) = 2024."},
-    "7": {"Answer": "(b) Rs.12,000", "Basic Solution": "Profit ratio = (4k*3) : (6k*2) : (8k*4) = 12:12:32 = 3:3:8. Total units = 14. Y's share = 3/14 * 56000 = 12000."},
-    "8": {"Answer": "(c) ?3,600", "Basic Solution": "A = 2B, B = 3C => A:B:C = 6:3:1. Total = 10 units = 6000. A's share = 6 units = 3600."}
-}
